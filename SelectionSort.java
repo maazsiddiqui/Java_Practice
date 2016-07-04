@@ -1,5 +1,6 @@
+// Selection Sort
 
-public class main {
+public class SelectionSort {
 
 	public static void main(String[] args) {
 		
